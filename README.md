@@ -33,6 +33,8 @@
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
 **[Hello Rails Backend]** is an API backend for a webapp.
+
+click here to view the [frontend](https://github.com/Reggeditt/hello-react-frontend)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Rails <a name="tech-stack"></a>
